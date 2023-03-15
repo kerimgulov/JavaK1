@@ -14,6 +14,7 @@ public class Student {
 
         System.out.println("task 7 ogretmen");
 
+        System.out.println("task 8 ogretmen");
 
 
 
